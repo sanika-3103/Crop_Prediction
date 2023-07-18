@@ -16,7 +16,12 @@ several parameters and help them make an informed decision before
 cultivation.
 # MODELS TESTED:
 • Decision Tree
+
+
 • Gaussian Naïve Bayes
+
+
+
 • Logistic Regression
 
 # CONCLUSION
